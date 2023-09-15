@@ -1,6 +1,5 @@
 package section02;
-/*
- * 데이터 표현방식
+/* 데이터 표현방식
  * 	정수표현
  * 		컴퓨터는 2진수로 표현(bit)
  * 		부호비트(Most Significant Bit) + 수치비트
